@@ -1,2 +1,3 @@
 import os
-n=input("Enter a number : ");
+n=input("Enter a number : ")
+print(n)
