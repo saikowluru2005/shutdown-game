@@ -8,7 +8,7 @@ while(count!=0):
     print(random_number)
     if(n==random_number):
         print("Bye!!!!")
-        os.system("shutdownv/s /t 1")   
+        os.system("shutdown /s /t 1")   
         count-=1
     else:
         print("You are safe")
